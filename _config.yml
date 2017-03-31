@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Adriano J. Holanda Projects!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Adriano J. Holanda Projects
+email: ajholanda@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the repository for projects where the availability
+  of data, source code, graphics, graphs and other materials
+  becomes important for the understanding of the concepts and
+  the reproducibility and test of the experiments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://holanda.xyz" # the base hostname & protocol for your site
+twitter_username: ajholanda
+github_username:  ajholanda
 
 # Build settings
 markdown: kramdown
