@@ -73,6 +73,28 @@ example, in the chapter or verse 1, `AA` meets `BC` and after some
 period of time `AA`, `AB` and `BC` meet themselves. The asterisk
 symbol is used to start comments.
 
+## Graph Drawing
+
+![_Acts_ _of_ _Apostles_ graph](/assets/img/acts.png)
+
+![_Anna Karenina_](/assets/img/anna.png)
+
+![_Arthur_ _chronicles_](/assets/img/arthur.png)
+
+![_David_ _Copperfield_](/assets/img/david.png)
+
+![_Hobbit_](/assets/img/hobbit.png)
+
+![_Huckleberry_ _Finn_](/assets/img/huck.png)
+
+![_Luke_ _Gospel_](/assets/img/luke.png)
+
+![Newton biography](/assets/img/newton.png)
+
+![Pythagoras biography](/assets/img/pythagoras.png)
+
+![Tolkien biography](/assets/img/tolkien.png)
+
 
 ## Centrality Measures
 
