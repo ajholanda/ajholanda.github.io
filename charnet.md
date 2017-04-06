@@ -4,12 +4,20 @@ title: CharNet
 permalink: /charnet/
 ---
 
-CharNet is a study of complex networks properties of books considering
-characters as nodes and the interaction between them as edges. The
-books processed are the following:
+**Members of the project** (alphabetical order): Gisele
+M. Louren&ccedil;o Benevides, [Sueli Mara
+Ferreira](https://www.researchgate.net/profile/Sueli_Ferreira),
+[Adriano de Jesus Holanda](http://holanda.xyz/), [Osame
+Kinouchi](https://www.researchgate.net/profile/Osame_Kinouchi),
+Mariane Matias.
+
+
+CharNet is a study of complex networks properties of books where
+characters represent the nodes and the interaction between them are
+edges. The books processed are the following:
 
 - [`acts`] Holy Bible's _Acts_ _of_ _Apostles_.
-- [`anna`] Leo Tolstoy's _Anna_ _Karenina_.
+- [`anna`] _Anna_ _Karenina_, by Leo Tolstoy.
 - [`arthur`] _O_ _Rei_ _do_ _Inverno_ - _As_ _crônicas_ _de_ _Artur_, Vol. 1; by Bernard Cornwell. (King Arthur chronicles)
 - [`david`] _David_ _Copperfield_, by Charles Dickens.
 - [`hawking`] _Minha_ _Breve_ _História_, by Stephen Hawking. Editora Intrínseca, 2013.
@@ -75,167 +83,42 @@ symbol is used to start comments.
 
 ## Graph Drawing
 
-![_Acts_ _of_ _Apostles_ graph](/assets/img/acts.png)
+The graphs were drawn using Python libraries [NetworkX](https://networkx.github.io/)
+and [matplotlib](http://matplotlib.org/).
 
-![_Anna Karenina_](/assets/img/anna.png)
+![_Acts_ _of_ _Apostles_ graph](/assets/img/g-acts.png)
 
-![_Arthur_ _chronicles_](/assets/img/arthur.png)
+![_Anna Karenina_](/assets/img/g-anna.png)
 
-![_David_ _Copperfield_](/assets/img/david.png)
+![_Arthur_ _chronicles_](/assets/img/g-arthur.png)
 
-![_Hobbit_](/assets/img/hobbit.png)
+![_David_ _Copperfield_](/assets/img/g-david.png)
 
-![_Huckleberry_ _Finn_](/assets/img/huck.png)
+![_Hobbit_](/assets/img/g-hobbit.png)
 
-![_Luke_ _Gospel_](/assets/img/luke.png)
+![_Huckleberry_ _Finn_](/assets/img/g-huck.png)
 
-![Newton biography](/assets/img/newton.png)
+![_Luke_ _Gospel_](/assets/img/g-luke.png)
 
-![Pythagoras biography](/assets/img/pythagoras.png)
+![Newton biography](/assets/img/g-newton.png)
 
-![Tolkien biography](/assets/img/tolkien.png)
+![Pythagoras biography](/assets/img/g-pythagoras.png)
 
+![Tolkien biography](/assets/img/g-tolkien.png)
 
-## Centrality Measures
+## Results and Analysis
 
-The properties of the vertices (characters) werehttps://github.com/ajholanda/charnet/blob/master/data/booknet.xlsx[*stored in an 
-Excel file*]. The measures 
-are the following:
+We described in a manuscript (to be submitted) the main results and
+analysis focused on:
 
-1. Degree;
-2. Betweenness;
-3. Closeness;
-4. Lobby index.
+1. Comparison of frequency distribution of characters;
+2. Comparison of frequency of characters that appear only once in the entire book;
+3. Comparison of Lobby centrality with degree, betweenness and closeness centralities.
 
 Information about degree, closeness and betweenness can be found at
 [Wikipedia](https://en.wikipedia.org/wiki/Centrality). Lobby index
 information can be found in the [Campiteli's
 paper](http://www.sciencedirect.com/science/article/pii/S0378437113005839).
-
-== Ranking
-
-The ranking of vertices' degrees also washttps://github.com/ajholanda/charnet/blob/master/data/rank.xlsx[*stored in an Excel
-file*].
-
-== Graph figures
-
-The pictures of the graphs were generated using http://igraph.org/python/[`igraph`].
-
-=== Acts of Apostle
-
-[.float-group]
---
-[.center]
-[[img-acts]]
-.Acts graph.
-image::acts.png[align="center"]
---
-
-=== Anna Karenina
-
-*https://github.com/ajholanda/charnet/blob/master/data/anna.dat[Index]
-
-[.float-group]
---
-[.center]
-[[img-anna]]
-.Anna Karenina graph.
-image::anna.png[align="center"]
---
-
-=== King Arthur
-
-[.float-group]
---
-[.center]
-[[img-arthur]]
-.King Arthur's graph.
-image::arthur.png[align="center"]
---
-
-=== David Copperfield
-
-*https://github.com/ajholanda/charnet/blob/master/data/david.dat[Index]
-
-[.float-group]
---
-[.center]
-[[img-david]]
-.David Copperfield graph.
-image::david.png[align="center"]
---
-
-=== Hawking biography
-
-[.float-group]
---
-[.center]
-[[img-hawking]]
-.Hawking graph.
-image::hawking.png[align="center"]
---
-
-=== Hobbit
-
-[.float-group]
---
-[.center]
-[[img-hobbit]]
-.Hobbit graph.
-image::hobbit.png[align="center"]
---
-
-=== Huckleberry Finn
-
-*https://github.com/ajholanda/charnet/blob/master/data/huck.dat[Index]
-
-[.float-group]
---
-[.center]
-[[img-huck]]
-.Huckleberry Finn graph.
-image::huck.png[align="center"]
---
-
-=== Luke gospel
-
-[.float-group]
---
-[.center]
-[[img-luke]]
-.Luke graph.
-image::luke.png[align="center"]
---
-
-=== Luke gospel
-
-[.float-group]
---
-[.center]
-[[img-newton]]
-.Newton biography graph.
-image::newton.png[align="center"]
---
-
-=== Pythagoras biography
-
-[.float-group]
---
-[.center]
-[[img-pythagoras]]
-.Pythagoras graph.
-image::pythagoras.png[align="center"]
---
-
-=== Tolkien biography
-
-[.float-group]
---
-[.center]
-[[img-tolkien]]
-.Tolkien graph.
-image::tolkien.png[align="center"]
---
 
 ## Source code
 
