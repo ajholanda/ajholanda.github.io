@@ -1,4 +1,4 @@
-# Welcome to Adriano J. Holanda Projects!
+			# Welcome to Adriano J. Holanda Projects!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,10 +9,11 @@
 title: Adriano J. Holanda Projects
 email: ajholanda@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the repository for projects where the availability
-  of data, source code, graphics, graphs and other materials
+  This is the repository for additional documentation of the projects
+  stored in github where the availability
+  of data set, source code, graphics, graphs and other materials
   becomes important for the understanding of the concepts and
-  the reproducibility and test of the experiments.
+  the reproducibility and test of the experiments performed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://holanda.xyz" # the base hostname & protocol for your site
 twitter_username: ajholanda
