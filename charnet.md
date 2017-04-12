@@ -105,12 +105,12 @@ and [matplotlib](http://matplotlib.org/).
 
 ## Results and Analysis
 
-We described in a manuscript (to be submitted) the main results and
-analysis focused on:
+We described in a manuscript (to be submitted to publication) the main
+results and analysis with the following aims:
 
-1. Comparison of frequency distribution of characters;
-2. Comparison of frequency of characters that appear only once in the entire book;
-3. Comparison of Lobby centrality with degree, betweenness and closeness centralities.
+1. Compare the frequency distribution of characters;
+2. Compare the frequency of characters that appear only once in the entire book;
+3. Compare the Lobby centrality with degree, betweenness and closeness centralities.
 
 Information about degree, closeness and betweenness can be found at
 [Wikipedia](https://en.wikipedia.org/wiki/Centrality). Lobby index
