@@ -69,7 +69,7 @@ CB character C married with BC<br>
 1:AA,BC;AA,AB,BC<br>
 2:AA,BC,CB<br>
 * End of file "example.dat"<br>
-<code>
+</code>
 
 represents the file `example.dat` that contains four nodes {`AA`,
 `AB`, `BC`, `CC`}. After the node label, there is a space and then the
