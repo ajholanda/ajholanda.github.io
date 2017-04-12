@@ -58,18 +58,18 @@ nodes and the encounters between those characters as edges:
 The format follows the SGB graph data representation for books, for
 example the content
 
-<code>
-* File "example.dat"<br>
-* Comments<br>
-AA character A from country A<br>
-AB character A from city B<br>
-BC character B married with CC<br>
-CB character C married with BC<br>
-<br>
-1:AA,BC;AA,AB,BC<br>
-2:AA,BC,CB<br>
-* End of file "example.dat"<br>
-</code>
+<pre>
+<code>* File "example.dat"
+* Comments
+AA character A from country A
+AB character A from city B
+BC character B married with CC
+CB character C married with BC
+
+1:AA,BC;AA,AB,BC
+2:AA,BC,CB
+* End of file "example.dat"</code>
+</pre>
 
 represents the file `example.dat` that contains four nodes {`AA`,
 `AB`, `BC`, `CC`}. After the node label, there is a space and then the
