@@ -14,10 +14,9 @@ Mariane Matias.
 
 CharNet is a study of complex networks properties of books where
 characters represent the nodes and the interaction between them are
-edges. The books processed are the following:
+edges. The data were gathered from the following books:
 
 - [`acts`] Holy Bible's _Acts_ _of_ _Apostles_.
-- [`anna`] _Anna_ _Karenina_, by Leo Tolstoy.
 - [`arthur`] _O_ _Rei_ _do_ _Inverno_ - _As_ _crônicas_ _de_ _Artur_, Vol. 1; by Bernard Cornwell. (King Arthur chronicles)
 - [`david`] _David_ _Copperfield_, by Charles Dickens.
 - [`hawking`] _Minha_ _Breve_ _História_, by Stephen Hawking. Editora Intrínseca, 2013.
@@ -36,7 +35,7 @@ Special Illustrated Edition with Interactive Table of Contents -
 Complete Old Testament & New Testament - ASV Bible / ASV Holy ... -
 Revised American Standard Version Book 1)](http://goo.gl/NTRhzT).
 
-The data from `anna`, `david` and `huck` were compiled by
+The data from david` and `huck` were compiled by
 Donald E. Knuth for his book [_Stanford_
 _GraphBase_](http://www-cs-faculty.stanford.edu/~knuth/sgb.html) (SGB).
 
@@ -46,15 +45,14 @@ The following files contain graphs created using the characters as
 nodes and the encounters between those characters as edges:
 
 1. [_Acts_ _of_ _Apostles_](https://github.com/ajholanda/charnet/blob/master/data/acts.dat);
-2. [_Anna Karenina_](https://github.com/ajholanda/charnet/blob/master/sgb/anna.dat);
-3. [_Arthur_ _chronicles_](https://github.com/ajholanda/charnet/blob/master/data/arthur.dat);
-4. [_David_ _Copperfield_](https://github.com/ajholanda/charnet/blob/master/sgb/david.dat);
-5. [_Hobbit_](https://github.com/ajholanda/charnet/blob/master/data/hobbit.dat);
-6. [_Huckleberry_ _Finn_](https://github.com/ajholanda/charnet/blob/master/sgb/huck.dat);
-7. [_Luke_ _Gospel_](https://github.com/ajholanda/charnet/blob/master/data/luke.dat);
-8. [Newton biography](https://github.com/ajholanda/charnet/blob/master/data/newton.dat);
-9. [Pythagoras biography](https://github.com/ajholanda/charnet/blob/master/data/pythagoras.dat);
-10. [Tolkien biography](https://github.com/ajholanda/charnet/blob/master/data/tolkien.dat).
+2. [_Arthur_ _chronicles_](https://github.com/ajholanda/charnet/blob/master/data/arthur.dat);
+3. [_David_ _Copperfield_](https://github.com/ajholanda/charnet/blob/master/sgb/david.dat);
+4. [_Hobbit_](https://github.com/ajholanda/charnet/blob/master/data/hobbit.dat);
+5. [_Huckleberry_ _Finn_](https://github.com/ajholanda/charnet/blob/master/sgb/huck.dat);
+6. [_Luke_ _Gospel_](https://github.com/ajholanda/charnet/blob/master/data/luke.dat);
+7. [Newton biography](https://github.com/ajholanda/charnet/blob/master/data/newton.dat);
+8. [Pythagoras biography](https://github.com/ajholanda/charnet/blob/master/data/pythagoras.dat);
+9. [Tolkien biography](https://github.com/ajholanda/charnet/blob/master/data/tolkien.dat).
 
 The format follows the SGB graph data representation for books, for
 example the content
@@ -87,8 +85,6 @@ The graphs were drawn using Python libraries [NetworkX](https://networkx.github.
 and [matplotlib](http://matplotlib.org/).
 
 ![_Acts_ _of_ _Apostles_ graph](/assets/img/g-acts.png)
-
-![_Anna Karenina_](/assets/img/g-anna.png)
 
 ![_Arthur_ _chronicles_](/assets/img/g-arthur.png)
 
