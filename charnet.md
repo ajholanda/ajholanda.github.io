@@ -35,9 +35,10 @@ Special Illustrated Edition with Interactive Table of Contents -
 Complete Old Testament & New Testament - ASV Bible / ASV Holy ... -
 Revised American Standard Version Book 1)](http://goo.gl/NTRhzT).
 
-The data from david` and `huck` were compiled by
-Donald E. Knuth for his book [_Stanford_
-_GraphBase_](http://www-cs-faculty.stanford.edu/~knuth/sgb.html) (SGB).
+The data from `david` and `huck` were compiled by Donald E. Knuth for
+his book [_Stanford_
+_GraphBase_](http://www-cs-faculty.stanford.edu/~knuth/sgb.html)
+(SGB).
 
 ## Gathered Data 
 
