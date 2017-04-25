@@ -16,18 +16,18 @@ CharNet is a study of complex networks properties of books where
 characters represent the nodes and the interaction between them are
 edges. The data were gathered from the following books:
 
-- [`acts`] Holy Bible's _Acts_ _of_ _Apostles_.
-- [`arthur`] _O_ _Rei_ _do_ _Inverno_ - _As_ _crônicas_ _de_ _Artur_, Vol. 1; by Bernard Cornwell. (King Arthur chronicles)
-- [`david`] _David_ _Copperfield_, by Charles Dickens.
-- [`hawking`] _Minha_ _Breve_ _História_, by Stephen Hawking. Editora Intrínseca, 2013.
+- [_Acts_] Holy Bible's _Acts_ _of_ _Apostles_.
+- [_Arthur_] _O_ _Rei_ _do_ _Inverno_ - _As_ _crônicas_ _de_ _Artur_, Vol. 1; by Bernard Cornwell. (King Arthur chronicles)
+- [_David_] _David_ _Copperfield_, by Charles Dickens.
+- [_Hawking_] _Minha_ _Breve_ _História_, by Stephen Hawking. Editora Intrínseca, 2013.
    [*Stephen Hawking biography*](https://goo.gl/1p3osS)
-- [`hobbit`]  _Hobbit_, by J. R. R. Tolkien. Editora Martins Fontes, 2014.
+- [_Hobbit_]  _Hobbit_, by J. R. R. Tolkien. Editora Martins Fontes, 2014.
   [ISBN 9788578278953](http://www.isbnsearch.org/isbn/9788578278953)
-- [`huck`] _Huckleberry_ _Finn_, by Mark Twain.
-- [`luke`] Holy Bible's _Luke_ _Gospel_.
-- [`newton`] [_Isaac_ _Newton_, _uma_ _biografia_](https://www.goodreads.com/book/show/17098.Isaac_Newton), by James Gleick. Companhia das Letras, 2004, ISBN 8535904646.
-- [`pythagoras`] [_The_ _Life_ _of_ _Pythagoras_](https://archive.org/details/lifeofpythagoras00iamb), by Iamblichus. Theosophical Publishing House, 1915.
-- [`tolkien`]  _J_. _R_. _R_. _Tolkien_: _o_ _senhor_ _da_ _fantasia_, by Michael White. DarkSide Books, 2013.
+- [_Huck_] _Huckleberry_ _Finn_, by Mark Twain.
+- [_Luke_] Holy Bible's _Luke_ _Gospel_.
+- [_Newton_] [_Isaac_ _Newton_, _uma_ _biografia_](https://www.goodreads.com/book/show/17098.Isaac_Newton), by James Gleick. Companhia das Letras, 2004, ISBN 8535904646.
+- [_Pythagoras_] [_The_ _Life_ _of_ _Pythagoras_](https://archive.org/details/lifeofpythagoras00iamb), by Iamblichus. Theosophical Publishing House, 1915.
+- [_Tolkien_]  _J_. _R_. _R_. _Tolkien_: _o_ _senhor_ _da_ _fantasia_, by Michael White. DarkSide Books, 2013.
    [ISBN 9788566636642](https://goo.gl/sMWEkl)
 
 Data from Holy Bible were gathered using [AMERICAN HOLY BIBLE (ASV)
@@ -35,7 +35,7 @@ Special Illustrated Edition with Interactive Table of Contents -
 Complete Old Testament & New Testament - ASV Bible / ASV Holy ... -
 Revised American Standard Version Book 1)](http://goo.gl/NTRhzT).
 
-The data from `david` and `huck` were compiled by Donald E. Knuth for
+The data from _david_ and _huck_ were compiled by Donald E. Knuth for
 his book [_Stanford_
 _GraphBase_](http://www-cs-faculty.stanford.edu/~knuth/sgb.html)
 (SGB).
