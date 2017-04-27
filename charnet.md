@@ -106,7 +106,7 @@ and [matplotlib](http://matplotlib.org/).
 ## Results and Analysis
 
 We described in a [manuscript](https://arxiv.org/abs/1704.08197) (submitted to publication) the main
-results and analysis with the following aims:
+results and analyses with the following aims:
 
 1. Compare the frequency distribution of characters;
 2. Compare the frequency of characters that appear only once in the entire book;
