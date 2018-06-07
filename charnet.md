@@ -49,7 +49,7 @@ nodes and the encounters between those characters as edges:
 1. [_Acts_ _of_ _Apostles_](https://github.com/ajholanda/charnet/blob/master/data/acts.dat);
 2. [_Arthur_ _chronicles_](https://github.com/ajholanda/charnet/blob/master/data/arthur.dat);
 3. [_David_ _Copperfield_](https://github.com/ajholanda/charnet/blob/master/sgb/david.dat);
-4. [_Dick_'s biography](https://github.com/ajholanda/charnet/blob/master/sgb/dick.dat);
+4. [_Dick_'s biography](https://github.com/ajholanda/charnet/blob/master/data/dick.dat);
 5. [_Hobbit_](https://github.com/ajholanda/charnet/blob/master/data/hobbit.dat);
 6. [_Huckleberry_ _Finn_](https://github.com/ajholanda/charnet/blob/master/sgb/huck.dat);
 7. [_Luke_ _Gospel_](https://github.com/ajholanda/charnet/blob/master/data/luke.dat);
