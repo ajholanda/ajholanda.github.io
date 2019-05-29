@@ -3,6 +3,8 @@ layout: page
 title: CharNet
 permalink: /charnet/
 ---
+preprint:  [arXiv.org](https://arxiv.org/abs/1704.08197)
+presentation: [overleaf.com](https://www.overleaf.com/read/vszbrbjcbtpq)
 
 **Members of the project** (alphabetical order): Gisele
 M. Louren&ccedil;o Benevides, [Sueli Mara
@@ -42,7 +44,7 @@ his book [_Stanford_
 _GraphBase_](http://www-cs-faculty.stanford.edu/~knuth/sgb.html)
 (SGB).
 
-## Gathered Data 
+## Gathered Data
 
 The following files contain graphs created using the characters as
 nodes and the encounters between those characters as edges:
@@ -113,7 +115,7 @@ and [matplotlib](http://matplotlib.org/).
 
 ## Results and Analysis
 
-We described in a [manuscript](https://arxiv.org/abs/1704.08197) (submitted to publication) the main
+We described in the [manuscript](https://arxiv.org/abs/1704.08197) the main
 results and analyses with the following aims:
 
 1. Compare the frequency distribution of characters;
