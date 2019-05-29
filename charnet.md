@@ -4,6 +4,7 @@ title: CharNet
 permalink: /charnet/
 ---
 preprint:  [arXiv.org](https://arxiv.org/abs/1704.08197)
+
 presentation: [overleaf.com](https://www.overleaf.com/read/vszbrbjcbtpq)
 
 **Members of the project** (alphabetical order): Gisele
