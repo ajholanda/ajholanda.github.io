@@ -4,8 +4,8 @@ title: CharNet
 permalink: /charnet/
 ---
 
-- preprint:  [arXiv.org](https://arxiv.org/abs/1704.08197)
-- presentation: [overleaf.com](https://www.overleaf.com/read/vszbrbjcbtpq)
+- preprint:  [arXiv](https://arxiv.org/abs/1704.08197);
+- presentation: [overleaf](https://www.overleaf.com/read/vszbrbjcbtpq), [speakerdeck](https://speakerdeck.com/ajholanda/character-networks-and-book-genre-classification).
 
 **Members of the project** (alphabetical order): Gisele
 M. Louren&ccedil;o Benevides, [Sueli Mara
