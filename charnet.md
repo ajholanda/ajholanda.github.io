@@ -10,9 +10,9 @@ permalink: /charnet/
 
 **Members of the project** (alphabetical order): Gisele
 M. Louren&ccedil;o Benevides, [Sueli Mara
-S. P. Ferreira](https://www.researchgate.net/profile/Sueli_Ferreira),
+S. P. Ferreira](https://publons.com/researcher/1745966/sueli-mara-ferreira/),
 [Adriano de Jesus Holanda](https://publons.com/researcher/1343572/adriano-de-jesus-holanda/),
-[Osame Kinouchi](https://www.researchgate.net/profile/Osame_Kinouchi),
+[Osame Kinouchi](https://publons.com/researcher/1537219/osame-kinouchi/),
 Mariane Matias.
 
 
