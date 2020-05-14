@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Talks
+title: Publications
 permalink: /manuscripts/
 ---
 
