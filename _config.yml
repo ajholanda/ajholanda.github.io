@@ -9,11 +9,8 @@
 title: Adriano J. Holanda pages
 email: ajholanda@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the repository for additional documentation of the projects
-  stored in github where the availability
-  of data set, source code, graphics, graphs and other materials
-  becomes important for the understanding of the concepts and
-  the reproducibility and test of the experiments performed.
+  These pages contains only enough an needed information used to communicate
+  professional information, some ideas and concepts, and projects' content.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ajholanda.github.io" # the base hostname & protocol for your site
 github_username:  ajholanda
