@@ -7,6 +7,7 @@ permalink: /talks/
 # Selected Talks
 
 - 2020-05-14 - [Sistemas Operacionais](https://drive.google.com/open?id=1sg6gms6GgUUl7f0Ia61bky50pYMpzw78).
+  Webminar para o curso de "Sistemas de Informação" da FAFRAM.
 
 - 2019-05-29 - [Character Networks and Book Genre Classification](https://pt.overleaf.com/project/5ce82b121e291d69d0da1b52). Colóquios do Programa de Pós-Graduação em Física Aplicada à Medicina e Biologia, Departamento de Física, FFCLRP/USP. [[speakerdeck](https://speakerdeck.com/ajholanda/character-networks-and-book-genre-classification)]
 
