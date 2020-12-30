@@ -7,8 +7,6 @@ permalink: /cv/
 # Curriculum Vitae
 
 - [Currículo CNPq Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4708972J0) (in Brazilian Portuguese);
-- [Long CV](https://drive.google.com/file/d/1EOzIBOOSKTVHFOOd0RrA3vhj4_ykB3JC/view) (in Brasilian Portuguese);
-- [Resume](https://drive.google.com/file/d/1TtX6-aMqpeejfoVSoCz6yIVP_CjEj8NV/view).
 
 ## Education
 
