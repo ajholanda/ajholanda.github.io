@@ -36,11 +36,11 @@ permalink: /manuscripts/
 
 - [The generation and utilization of a cancer-oriented representation of the human transcriptome by using expressed sequence tags](https://www.pnas.org/content/100/23/13418), PNAS, 2003.
 
-- [Mitochondrial Genome Diversity of Native Americans Supports a Single Early Entry of Founder Populations into America](https://www.cell.com/ajhg/fulltext/S0002-9297(07)60049-4), [The American Journal of Human Genetics](https://www.cell.com/ajhg/home), 2003.
+- [Mitochondrial Genome Diversity of Native Americans Supports a Single Early Entry of Founder Populations into America](https://www.cell.com/ajhg/fulltext/S0002-9297(07)60049-4), The American Journal of Human Genetics, 2003.
 
-- [PCR Template Preparation for Capillary DNA Sequencing](https://www.researchgate.net/publication/12076979_PCR_Template_Preparation_for_Capillary_DNA_Sequencing). [BioTechniques](https://www.biotechniques.com/), 2001.
+- [PCR Template Preparation for Capillary DNA Sequencing](https://pubmed.ncbi.nlm.nih.gov/11256382/). BioTechniques, 2001.
 
-- [Efeitos da orientação das fibras de colágeno nas propriedades mecânicas de flexão e impacto dos ossos](https://www.researchgate.net/publication/35986000_Efeitos_da_orientacao_das_fibras_de_colageno_nas_propriedades_mecanicas_de_flexao_e_impacto_dos_ossos). [Revista Brasileira de Ortopedia](http://www.rbo.org.br/), 1999.
+- [Efeitos da orientação das fibras de colágeno nas propriedades mecânicas de flexão e impacto dos ossos](https://rbo.org.br/about-the-authors/1662/pt-BR). Revista Brasileira de Ortopedia, 1999.
 
 ## More information
 
