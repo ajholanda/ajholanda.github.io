@@ -6,10 +6,6 @@ permalink: /manuscripts/
 
 # Selected Publications
 
-- [Citation network centrality: a scientific awards
-  predictor?](https://arxiv.org/abs/1910.02369), arXiv:1910.02369,
-  2019.
-
 - [Character Networks and Book Genre
   Classification](https://www.worldscientific.com/doi/abs/10.1142/S012918311950058X). IJMPC
   30 (8), 2019. [[arXiv](https://arxiv.org/abs/1704.08197),
@@ -41,6 +37,12 @@ permalink: /manuscripts/
 - [PCR Template Preparation for Capillary DNA Sequencing](https://pubmed.ncbi.nlm.nih.gov/11256382/). BioTechniques, 2001.
 
 - [Efeitos da orientação das fibras de colágeno nas propriedades mecânicas de flexão e impacto dos ossos](https://rbo.org.br/about-the-authors/1662/pt-BR). Revista Brasileira de Ortopedia, 1999.
+
+# Unrefereed Paper
+
+- [Citation network centrality: a scientific awards
+  predictor?](https://arxiv.org/abs/1910.02369), arXiv:1910.02369,
+  2019.
 
 ## More information
 
