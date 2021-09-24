@@ -49,8 +49,10 @@ arXiv:2109.11518, 2021.
 
 ## More information
 
-- [My Researcher ID](https://publons.com/researcher/1343572/adriano-de-jesus-holanda/);
-- [Citations at Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=rK3zYoMAAAAJ).
+- [Citations at Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=rK3zYoMAAAAJ);
+- [ORCID](https://orcid.org/0000-0002-5409-6568);
+- [Researcher ID](https://publons.com/researcher/1343572/adriano-de-jesus-holanda/).
+
 
 For a more complete list of publications, see [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4708972J0) (in Brazilian Portuguese).
 
