@@ -38,7 +38,7 @@ permalink: /manuscripts/
 
 - [Efeitos da orientação das fibras de colágeno nas propriedades mecânicas de flexão e impacto dos ossos](https://rbo.org.br/about-the-authors/1662/pt-BR). Revista Brasileira de Ortopedia, 1999.
 
-# Unrefereed Paper
+# Unrefereed Papers
 
 - [Estimating the number of COVID-19 cases from population isolation level](https://arxiv.org/abs/2109.11518), 
 arXiv:2109.11518, 2021.
