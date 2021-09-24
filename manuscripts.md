@@ -40,6 +40,9 @@ permalink: /manuscripts/
 
 # Unrefereed Paper
 
+- [Estimating the number of COVID-19 cases from population isolation level](https://arxiv.org/abs/2109.11518), 
+arXiv:2109.11518, 2021.
+
 - [Citation network centrality: a scientific awards
   predictor?](https://arxiv.org/abs/1910.02369), arXiv:1910.02369,
   2019.
