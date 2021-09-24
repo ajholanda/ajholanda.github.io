@@ -1,6 +1,5 @@
 ---
 layout: page
-title: CharNet
 permalink: /charnet/
 ---
 
