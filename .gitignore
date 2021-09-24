@@ -1,3 +1,10 @@
 _site
 .sass-cache
 *~
+
+# Jekyll
+jekyll-*
+
+# Ruby
+*.lock
+
