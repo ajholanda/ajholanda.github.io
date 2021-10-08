@@ -21,5 +21,5 @@ Some projects have a web page generated from source code or
 built to publish additional material not inserted into the
 manuscript:
 
-- [CharNet](/charnet/)
-- [pandiso](/pandiso/)
+- [CharNet](/charnet/) - Character Networks [Github](https://github.com/aholanda/charnet)
+- [pandiso](/pandiso/) - Pandemic Isolation [Github](https://github.com/aholanda/pandiso)
