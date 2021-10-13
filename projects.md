@@ -8,10 +8,9 @@ permalink: /projects/
 
 I write some programs and libraries and most of them are stored in:
 
-- [Educational Github](https://github.com/prof-holanda?tab=repositories);
-- [Personal Github](https://github.com/ajholanda?tab=repositories);
-- [Professional Github](https://github.com/aholanda?tab=repositories);
-
+- [Educational Github](https://github.com/prof-holanda?tab=repositories) [<a href="mailto:adriano.holanda@faframx.com.br" onmouseover="this.href=this.href.replace(/x/g,'');">email</a>];
+- [Personal Github](https://github.com/ajholanda?tab=repositories) [<a href="mailto:adrianojholanda@gmailx.com" onmouseover="this.href=this.href.replace(/x/g,'');">email</a>];
+- [Professional Github](https://github.com/aholanda?tab=repositories) [<a href="mailto:aholanda@uspx.com" onmouseover="this.href=this.href.replace(/x/g,'');">email</a>].
 
 - University of São Paulo's [GitLab repository](https://gitlab.uspdigital.usp.br/aholanda).
 
