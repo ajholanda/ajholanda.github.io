@@ -50,17 +50,17 @@ _GraphBase_](http://www-cs-faculty.stanford.edu/~knuth/sgb.html)
 The following files contain graphs created using the characters as
 nodes and the encounters between those characters as edges:
 
-1. [_Acts_ _of_ _Apostles_](https://github.com/ajholanda/charnet/blob/master/data/acts.dat);
-3. [_Apollonius_ _of_ _Tyana_](https://github.com/ajholanda/charnet/blob/master/data/apollonius.dat);
-2. [_Arthur_ _biography_](https://github.com/ajholanda/charnet/blob/master/data/arthur.dat);
-4. [_David_ _Copperfield_](https://github.com/ajholanda/charnet/blob/master/sgb/david.dat);
-5. [_Dick_'s biography](https://github.com/ajholanda/charnet/blob/master/data/dick.dat);
-6. [_Hobbit_](https://github.com/ajholanda/charnet/blob/master/data/hobbit.dat);
-7. [_Huckleberry_ _Finn_](https://github.com/ajholanda/charnet/blob/master/sgb/huck.dat);
-8. [_Luke_ _Gospel_](https://github.com/ajholanda/charnet/blob/master/data/luke.dat);
-9. [_Newton_ biography](https://github.com/ajholanda/charnet/blob/master/data/newton.dat);
-10. [_Pythagoras_ biography](https://github.com/ajholanda/charnet/blob/master/data/pythagoras.dat);
-11. [_Tolkien_ biography](https://github.com/ajholanda/charnet/blob/master/data/tolkien.dat).
+1. [_Acts_ _of_ _Apostles_](https://github.com/aholanda/charnet/blob/master/data/acts.dat);
+3. [_Apollonius_ _of_ _Tyana_](https://github.com/aholanda/charnet/blob/master/data/apollonius.dat);
+2. [_Arthur_ _biography_](https://github.com/aholanda/charnet/blob/master/data/arthur.dat);
+4. [_David_ _Copperfield_](https://github.com/aholanda/charnet/blob/master/sgb/david.dat);
+5. [_Dick_'s biography](https://github.com/aholanda/charnet/blob/master/data/dick.dat);
+6. [_Hobbit_](https://github.com/aholanda/charnet/blob/master/data/hobbit.dat);
+7. [_Huckleberry_ _Finn_](https://github.com/aholanda/charnet/blob/master/sgb/huck.dat);
+8. [_Luke_ _Gospel_](https://github.com/aholanda/charnet/blob/master/data/luke.dat);
+9. [_Newton_ biography](https://github.com/aholanda/charnet/blob/master/data/newton.dat);
+10. [_Pythagoras_ biography](https://github.com/aholanda/charnet/blob/master/data/pythagoras.dat);
+11. [_Tolkien_ biography](https://github.com/aholanda/charnet/blob/master/data/tolkien.dat).
 
 The format follows the SGB graph data representation for books, for
 example the content
@@ -131,4 +131,4 @@ paper](http://www.sciencedirect.com/science/article/pii/S0378437113005839).
 ## Source code
 
 The source code of the project was versioned using a
-[github repository](https://github.com/ajholanda/charnet/).
+[github repository](https://github.com/aholanda/charnet/).
