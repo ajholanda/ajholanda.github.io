@@ -11,9 +11,9 @@ description: > # this means to ignore newlines until "baseurl:"
   These pages contain only enough information to communicate
   professional data, some ideas and concepts, and projects' content.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ajholanda.github.io" # the base hostname & protocol for your site
+url: "http://aholanda.github.io" # the base hostname & protocol for your site
 
-github_username: ajholanda
+github_username: aholanda
 
 # Build settings
 markdown: kramdown
