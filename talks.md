@@ -23,4 +23,4 @@ permalink: /talks/
 
 - 2010-09-13 - [Berkeley DB](https://speakerdeck.com/ajholanda/berkeleydb).
 
-- 2010-04-28 - [Tex and LaTeX](https://speakerdeck.com/ajholanda/tex-and-latex). [[source code](https://github.com/aholanda/tex-latex-presentation)]
+- 2010-04-28 - [Tex and LaTeX](https://speakerdeck.com/ajholanda/tex-and-latex). [[source code](https://github.com/ajholanda/tex-latex-presentation)]
