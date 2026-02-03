@@ -7,8 +7,8 @@
 
 # Site settings
 title: Adriano J. Holanda pages
-description: > # this means to ignore newlines until "baseurl:"
-These pages provide essential information about my professional work, ideas, concepts, and projects.
+description: >
+  These pages provide essential information about my professional work, ideas, concepts, and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aholanda.github.io" # the base hostname & protocol for your site
 github_username: ajholanda
