@@ -8,17 +8,17 @@ permalink: /manuscripts/
 
 - [Explainability and privacy in AI-enabled crop monitoring: Trends
   and future directions in soybean
-  research](https://www.sciencedirect.com/science/article/pii/S016816992501498X).
+  research](https://www.sciencedirect.com/science/article/pii/S016816992501498X),
   Computers and Electronics in Agriculture 243, 2026.
 
 - [Character Networks and Book Genre
-  Classification](https://www.worldscientific.com/doi/abs/10.1142/S012918311950058X). IJMPC
+  Classification](https://www.worldscientific.com/doi/abs/10.1142/S012918311950058X), IJMPC
   30 (8), 2019. [[arXiv](https://arxiv.org/abs/1704.08197),
   [slides](https://drive.google.com/file/d/1KbJZ79UiWCGP21I1byHPYpW0mg_AA1a0/view)]
 
 - [Utilização das extensões multimídia dos processadores Intel® para
   redução do número de ciclos para a execução de
-  programas](http://www.nucleus.feituverava.com.br/index.php/nucleus/article/view/878). Revista
+  programas](http://www.nucleus.feituverava.com.br/index.php/nucleus/article/view/878), Revista
   Nucleus 11 (1), 2014.
 
 - [Identification of cromosomal translocation hotspots via scan
@@ -53,7 +53,7 @@ permalink: /manuscripts/
 
 - [Efeitos da orientação das fibras de colágeno nas propriedades
   mecânicas de flexão e impacto dos
-  ossos](https://rbo.org.br/about-the-authors/1662/pt-BR). Revista
+  ossos](https://rbo.org.br/about-the-authors/1662/pt-BR), Revista
   Brasileira de Ortopedia, 1999.
 
 # Unrefereed Papers
