@@ -6,6 +6,11 @@ permalink: /manuscripts/
 
 # Selected Publications
 
+- [Explainability and privacy in AI-enabled crop monitoring: Trends
+  and future directions in soybean
+  research](https://www.sciencedirect.com/science/article/pii/S016816992501498X),
+  Computers and Electronics in Agriculture, 2026.
+
 - [Character Networks and Book Genre
   Classification](https://www.worldscientific.com/doi/abs/10.1142/S012918311950058X). IJMPC
   30 (8), 2019. [[arXiv](https://arxiv.org/abs/1704.08197),
