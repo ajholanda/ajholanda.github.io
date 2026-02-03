@@ -6,7 +6,7 @@ permalink: /projects/
 
 # Source Code
 
-I write some programs and libraries and most of them are stored in:
+I develop programs and libraries, and most of them are available at:
 
 - [Github](https://github.com/ajholanda?tab=repositories);
 
