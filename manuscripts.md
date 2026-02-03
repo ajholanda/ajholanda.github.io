@@ -35,7 +35,7 @@ permalink: /manuscripts/
 
 - [Thesaurus as a complex
   network](https://www.sciencedirect.com/science/article/pii/S0378437104007903?via%3Dihub),
-  Physica A, 2004.
+  Physica A 344 (3-4), 2004.
 
 - [The generation and utilization of a cancer-oriented representation
   of the human transcriptome by using expressed sequence
