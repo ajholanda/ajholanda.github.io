@@ -72,8 +72,11 @@ level](https://arxiv.org/abs/2109.11518), arXiv:2109.11518, 2021.
 - [Researcher ID](https://publons.com/researcher/1343572/adriano-de-jesus-holanda/).
 
 
-For a more complete list of publications, see [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4708972J0) (in Brazilian Portuguese).
+For a more complete list of publications, see [Currículo
+Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4708972J0)
+(in Brazilian Portuguese).
 
 # Report
 
--  Halobacterium Salinarum NCR-1 Regulatory System as Logic Circuits.
+-  [Halobacterium Salinarum NCR-1 Regulatory System as Logic
+   Circuits](https://drive.google.com/file/d/1G136PDfUpCsaNiagHvSw9VwLq8FazNFk/view?usp=sharing).
